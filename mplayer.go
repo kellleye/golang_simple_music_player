@@ -2,13 +2,12 @@ package main
 
 import (
 	"bufio"
-	"fine/pkg/smp/mlib"
 	"fmt"
+	"golang_simple_music_player/pkg/smp/mlib"
+	"golang_simple_music_player/pkg/smp/mp"
 	"os"
 	"strconv"
 	"strings"
-
-	"fine/pkg/smp/mp"
 )
 
 var lib *library.MusicManager

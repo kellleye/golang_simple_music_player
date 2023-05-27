@@ -1,4 +1,4 @@
-module fine
+module golang_simple_music_player
 
 go 1.19
 
